@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = "http://github.com/Artsy/Artsy-UIColors"
   s.license          = 'MIT'
   s.author           = { "Orta" => "orta.therox@gmail.com" }
-  s.source           = { :git => "https://github.com/Artsy/Artsy-UIColors.git" }
+  s.source           = { :git => "https://github.com/Artsy/Artsy-UIColors.git", :tag => "1.0.0" }
   s.social_media_url = 'https://twitter.com/artsy'
 
   s.platform     = :ios, '7.0'
