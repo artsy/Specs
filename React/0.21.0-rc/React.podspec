@@ -110,6 +110,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'RCTTest' do |ss|
+    ss.dependency         'React/Core'
     ss.source_files     = "Libraries/RCTTest/**/*.{h,m}"
     ss.preserve_paths   = "Libraries/RCTTest/**/*.js"
     ss.frameworks       = "XCTest"
