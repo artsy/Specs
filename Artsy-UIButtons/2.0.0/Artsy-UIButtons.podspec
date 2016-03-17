@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit'
   s.dependency 'Artsy+UIColors', '~> 3.0'
-  s.dependency 'Artsy+UIFonts', '~> 2.0'
+  s.dependency 'Artsy+UIFonts'
   s.dependency 'UIView+BooleanAnimations'
 end
