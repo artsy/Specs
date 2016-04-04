@@ -16,4 +16,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'CoreText'
   s.module_name = 'Artsy_UIFonts'
+  s.deprecated_in_favor_of = 'Artsy+UIFonts'
 end
