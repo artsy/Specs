@@ -24,6 +24,7 @@
     "LICENSE-CustomComponents",
     "PATENTS"
   ],
+  "prepare_command": "sed -i '' 's/#import <RCTAnimation\\/RCTValueAnimatedNode.h>/#import \"RCTValueAnimatedNode.h\"/' Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h || true",
   "cocoapods_version": ">= 1.2.0",
   "subspecs": [
     {
