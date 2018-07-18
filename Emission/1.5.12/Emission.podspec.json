@@ -1,7 +1,3 @@
-^^^ /Users/eriks/dev/artsy/emission/Emission.podspec
-^^^ /Users/eriks/dev/artsy/emission/node_modules/react-native/third-party-podspecs/DoubleConversion.podspec
-^^^ /Users/eriks/dev/artsy/emission/node_modules/react-native/third-party-podspecs/Folly.podspec
-^^^ /Users/eriks/dev/artsy/emission/node_modules/react-native/third-party-podspecs/glog.podspec
 {
   "name": "Emission",
   "version": "1.5.12",
